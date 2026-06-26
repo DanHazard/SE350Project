@@ -2,6 +2,7 @@
 SE 350 Project
 
 ### Checklist:
+- This is only a test.
 
 – Are you in a Group?
     + No.
