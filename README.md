@@ -2,8 +2,9 @@
 SE 350 Project
 
 ### Checklist:
+
 – Are you in a Group?
-    + No.
+    + No. 
 – If so, who else is in your group?
 – Do you have your GitHub account set up?
 – Do you have a public repository for your Project?
