@@ -17,5 +17,5 @@ SE 350 Project
   - N/A
 - Do you have a “Hello World” program that compiles and runs?
   - Not yet.
-- Where is the entry point to your project? (src/main/Main.java for
-example)
+- Where is the entry point to your project? (src/main/Main.java for example)
+  - src/main/Main.java
