@@ -1,21 +1,13 @@
 # SE350Project
-SE 350 Project
+Bracketizer
 
-### Checklist:
-- This is only a test. 
-- Are you in a Group?
-  + No.
-- If so, who else is in your group?
-  - N/A
-- Do you have your GitHub account set up?
-  - Yes.
-- Do you have a public repository for your Project?
-  - Yes.
-- What is the link to your GitHub repository?
-  - https://github.com/DanHazard/SE350Project#
-- If you are in a group, does everyone have write access to the github repo?
-  - N/A
-- Do you have a “Hello World” program that compiles and runs?
-  - Not yet.
-- Where is the entry point to your project? (src/main/Main.java for example)
-  - src/main/Main.java
+This is an app to help shuffleboard tournament directors generate, organize, and manage brackets for the tournament.
+
+It should be able to take a list of players (.csv or other) to generate the bracket based on the number of players that the tournament director will use to manage the tournament, generate new matches, and other features
+
+Some features:
+bracket size is variable based on number of players entered, the app should generate a proper bracket based number of players
+the app will make a best effort to keep players from playing on a court they've previously played on based on user input for the number of courts there are available.
+the tournament director will input players who win via some kind of menu system. and the app will create the next match and assign them a court
+
+
