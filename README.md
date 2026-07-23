@@ -10,4 +10,6 @@ bracket size is variable based on number of players entered, the app should gene
 the app will make a best effort to keep players from playing on a court they've previously played on based on user input for the number of courts there are available.
 the tournament director will input players who win via some kind of menu system. and the app will create the next match and assign them a court
 
+More logic:
+Shuffleboard tournaments guarantee players two matches, they do this with a consolation bracket that is generated and ran alongside the main bracket after the first round.  EX: There are players 1, 2, 3, and 4.  Players 1 and 2 play each other in one bracket node, players 3 and 4 play each other in another bracket node.  Players 2 and 3 win, so they advance to the next round in the main bracket and will face each other.  Players 1 and 4 lose, but aren't out, they are now seeded in consolation bracket and will play each other.  After the first round, if you lose a match you are out of the tournament.  So if player 2 beats player 3, player 3's tournament is done.  If player 4 beats player 1, player 1's tournament is over.
 

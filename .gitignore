@@ -43,3 +43,5 @@ out/
 .DS_Store
 .idea/
 SE350Project.iml
+
+# Local-only, not needed on other machines
