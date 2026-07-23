@@ -4,8 +4,8 @@ package main;
  * A match between two players, implements BracketComponent
  */
 
-// Part of the Composite Pattern. Has two players and after a match is played the winner
-// of the match
+// A Match is a Leaf participant in my composite pattern that consists of two players. Once
+// a match is played it should only contain the winner of the match. This is a leaf.
 //
 
 public class Match implements BracketComponent {
