@@ -3,6 +3,10 @@ package main;
 import java.util.ArrayList;
 import java.util.List;
 
+
+// Something to visit after the bracket generation is done: Are fields like totalPoints and wins meaningless
+// in the context of what I want to achieve? Maybe.
+
 public class Player {
     private String name;
     private List<String> courtsPlayed;
